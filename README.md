@@ -7,4 +7,4 @@ Solutions to Hacker Rank problems
 ## Java
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
-|Strings|Easy|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[java-string-sokens.java](java/java-String-Tokens.java)|
+|Strings|Easy|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[java-string-tokens.java](java/java-string-tokens.java)|
