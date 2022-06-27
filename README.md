@@ -64,7 +64,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 - [Variables in MySQL](https://stackoverflow.com/a/11754790)
 - [Median in MySQL](https://stackoverflow.com/a/7263925)
 
-#Thank you for the listing!
+# Thank you for the listing!
 
 ## License
 This repository is licensed under MIT License - see [License](LICENSE.md) for more details
