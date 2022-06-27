@@ -17,6 +17,10 @@ Solutions to Hacker Rank problems
 
 
 ## SQL
+
+## Description
+The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
+
 ## Domains
 
 ### Basic Select Challenges
@@ -30,3 +34,37 @@ Solutions to Hacker Rank problems
 | 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL](sql/Basic%20Select/Japanese-Cities'-Attributes.sql)
 | 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [SQL](sql/Basic%20Select/Japanese-Cities'-Names.sql)
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-1.sql)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## References
+
+- [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
+- [Variables in MySQL](https://stackoverflow.com/a/11754790)
+- [Median in MySQL](https://stackoverflow.com/a/7263925)
+
+#Thank you for the listing!
+
+## License
+This repository is licensed under MIT License - see [License](LICENSE.md) for more details
