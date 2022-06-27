@@ -1,2 +1,2 @@
-# Author: Thomas George Thomas
+# Author: Tarun Reddy Kalluri
 Select * from city
