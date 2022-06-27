@@ -1,5 +1,4 @@
 ![GitHub](https://img.shields.io/github/license/tarunreddy6/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/tarunreddy6/HackerRank-SQL-Challenges-Solutions?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tarunreddy6/HackerRank-SQL-Challenges-Solutions?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/tarunreddy6/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
 
