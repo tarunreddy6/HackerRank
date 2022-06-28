@@ -33,6 +33,13 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL](sql/Basic%20Select/Japanese-Cities'-Attributes.sql)
 | 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [SQL](sql/Basic%20Select/Japanese-Cities'-Names.sql)
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-1.sql)
+| 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-3.sql)
+| 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-4.sql)
+| 10| [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-5.sql)
+| 11| [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-6.sql)
+| 12| [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-7.sql)
+| 13| [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-8.sql)
+| 14| [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [SQL](sql/Basic%20Select/Weather-Observation-Station-9.sql)
 
 
 
