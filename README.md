@@ -11,8 +11,9 @@ Solutions to Hacker Rank problems
 ## Java
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
-|Strings|Easy|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[java-string-tokens.java](java/java-string-tokens.java)|
-|Data Structures|Easy|[Java List](https://www.hackerrank.com/challenges/java-list/problem)|[java-list.java](java/java-list.java)|
+|Strings|Easy|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[Java 7](java/java-string-tokens.java)|
+|Strings|Easy|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)|[Java 7](java/java-anagrams.java)|
+|Data Structures|Easy|[Java List](https://www.hackerrank.com/challenges/java-list/problem)|[Java 7](java/java-list.java)|
 
 
 ## SQL
