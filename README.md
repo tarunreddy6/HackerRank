@@ -14,6 +14,8 @@ Solutions to Hacker Rank problems
 |Strings|Easy|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)|[Java 7](java/java-string-tokens.java)|
 |Strings|Easy|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)|[Java 7](java/java-anagrams.java)|
 |Data Structures|Easy|[Java List](https://www.hackerrank.com/challenges/java-list/problem)|[Java 7](java/java-list.java)|
+|Algorithms||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[Java 15](java/apple-orange.java)|
+
 
 
 ## SQL
